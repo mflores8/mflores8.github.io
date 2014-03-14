@@ -155,6 +155,16 @@ header a, header h1 {
     width:60%;
 }
 
+.portfolio-clips div {
+    border: 5px white;
+    padding: 20px;
+}
+
+.portfolio-links {
+    text-align: center;
+}
+        
+        
 footer {
     clear: both;
     color: #ffffff;

@@ -163,8 +163,11 @@ header a, header h1 {
 .portfolio-links {
     text-align: center;
 }
-        
-        
+
+.page-content a {
+     color: #fa5858;   
+}
+
 footer {
     clear: both;
     color: #ffffff;
